@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    font-family: 'Pangolin', cursive;
+    text-decoration: none;
+}
+header{
+    background-color: #FF8282;
+    height: 60px;
+    width: 100%;
+    font-size: 30px;
+}
+.titulos{
+    float: right;
+    margin-right: 120px;
+}
+.titulos li{
+    display: inline-block;
+    margin: 10px 10px 0 10px;
+    color: #FFFFFF;
+}
+footer{
+    width: 100%;
+    background-color: #FF8282;
+    text-align: end;
+    margin-top: 547px;
+    padding-right: 70px;
+    height: 60px;
+}
+.correo{
+    box-sizing: border-box;
+    font-size: 15px;
+    padding-top: 10px;
+}

@@ -1,0 +1,29 @@
+.titulocaja{
+    font-size: 40px;
+}
+.caja1{
+    width: 490px;
+    height: 490px;
+    background-image: url(../img/constelación/sistema_solar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 15px;
+    margin-left: 80px;
+    text-align: center;
+    float: left;
+    padding: 110px;
+    box-sizing: border-box;
+}
+.caja2{
+    width: 490px;
+    height: 490px;
+    background-image: url(../img/constelación/constelacion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 15px;
+    margin-left: 180px;
+    text-align: center;
+    float: left;
+    padding: 110px;
+    box-sizing: border-box;
+}
